@@ -5,7 +5,7 @@ Preview
 
 ![Loopstudios Landing Page](./screenshot.jpg)
 
-LIVE: https://dzik0.github.io/loopstudios-landing/
+LIVE: https://p-glazowski.github.io/loopstudios-landing/
 
 Features
 Responsive UI: Switches between desktop and mobile headers
@@ -36,7 +36,7 @@ Git
 Installation
 Clone the repository and install dependencies:
 
-git clone https://github.com/Dzik0/loopstudios-landing.git
+git clone https://github.com/p-glazowski/loopstudios-landing.git
 cd loopstudios-landing
 npm install
 Running Locally
