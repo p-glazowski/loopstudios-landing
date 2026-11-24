@@ -53,4 +53,4 @@ Deployment
 This project can be deployed to GitHub Pages using the gh-pages package.
 
 Author
-Created by Dzik0.
+Created by [p-glazowski](https://github.com/p-glazowski).
